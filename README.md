@@ -6,16 +6,16 @@
 
 Hello, world!
 
-I'm a student at **42 Madrid** and **Instituto Nebrija de Formación Profesional**. I also work as Intern at Endesa (Enel Group) in the DyP Services department.
+I'm a student at **42 Madrid** and **Instituto Nebrija de Formación Profesional**.
 
 - 🎯 I'm currently focusing on **my studies**.
 - 🌱 I'm learning ![badge_figma] and ![badge_kotlin] with ![badge_jetpackcompose].
 - 🚀 I'm improving my knowledge of ![badge_python], ![badge_regex] and ![badge_threejs].
-- 📚 I plan to learn ![badge_nextjs] and ![badge_godot] soon.
+- 📚 I plan to learn ![badge_nextjs].
 
 ### Tech & Tools Preference
 
-[![Tech & Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,threejs,tailwind,nodejs,bun,vite,express,c,py,php,git,vscode,vim,bash,docker,regex,windows,linux,notion,github,vercel#gh-dark-mode-only)](https://skillicons.dev)
+[![Tech & Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,threejs,tailwind,nodejs,bun,vite,express,c,py,php,godot,git,vscode,vim,bash,docker,regex,windows,linux,notion,github,vercel#gh-dark-mode-only)](https://skillicons.dev)
 
 <!-- TODO
 <details align="left">
@@ -28,7 +28,7 @@ I'm a student at **42 Madrid** and **Instituto Nebrija de Formación Profesional
 -->
 
 
-###### 💾 EOF - Last Edited on: 01/02/2025
+###### 💾 EOF - Last Edited on: 01/04/2025
 
 <!-- Badges from shields.io -->
 
