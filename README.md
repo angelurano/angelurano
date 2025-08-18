@@ -27,8 +27,13 @@ I'm a **Developer** currently studying at **42 Madrid**, with a background as a 
 </details>
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake.svg">
+</picture>
 
-###### 💾 EOF - Last Edited on: 01/04/2025
+###### 💾 EOF - Last Edited on: 18/08/2025
 
 <!-- Badges from shields.io -->
 
