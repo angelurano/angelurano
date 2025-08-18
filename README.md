@@ -27,6 +27,7 @@ I'm a **Developer** currently studying at **42 Madrid**, with a background as a 
 </details>
 -->
 
+### Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake.svg">
