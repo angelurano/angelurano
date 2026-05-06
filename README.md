@@ -28,7 +28,7 @@ I'm a **Developer** currently studying at **42 Madrid** and specializing in a **
 
 <!-- Badges from shields.io -->
 [badge_c]: https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=394aab
-[badge_cpp]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=c%2B%2B&logoColor=394aab
+[badge_cpp]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=c%2B%2B&logoColor=00599c
 [badge_spring]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white
 [badge_hadoop]: https://img.shields.io/badge/Hadoop-66CC00?style=flat&logo=apachehadoop&logoColor=white
 [badge_spark]: https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white
