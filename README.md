@@ -1,31 +1,21 @@
 <h1>
   <samp>I'm <b>Ángel</b>!</samp> 👋
-</h2>
+</h1>
 
-*[LinkedIn](https://www.linkedin.com/in/angel-garcia-beltran/ "Ángel García Beltrán")* \| *[GitHub](https://github.com/angelurano)* \| *angelurano01@gmail.com*
+Contact me: *[LinkedIn](https://www.linkedin.com/in/angel-garcia-beltran/ "Ángel García Beltrán")* \| *angelurano01@gmail.com*
 
 Hello, world!
 
-I'm a **Developer** currently studying at **42 Madrid**, with a background as a **Higher Technician in Multiplatform Application Development**.
+I'm a **Developer** currently studying at **42 Madrid** and specializing in a **Big Data Master's**, with a background as a **Higher Technician in Multiplatform Application Development**.
 
-- 🎨 I'm expanding my knowledge in ![badge_threejs] with ![badge_blender].
-- 🚀 I'm learning ![badge_nextjs] to build solid modern full-stack applications.
-- 🧩 I'm working on complex low-level projects with ![badge_c].
-- 📚 I plan to learn ![badge_rust] and ![badge_nestjs].
+- 🛡️ I recently wrapped up my experience as a Cybersecurity Trainer at **[Secur0](https://secur0.com/es)**.
+- 📊 I'm exploring the Data ecosystem with tools like ![badge_hadoop] and ![badge_spark].
+- 🧩 I'm building low-level systems and algorithms with ![badge_c] and ![badge_cpp].
+- ⚙️ I'm deepening my backend expertise with ![badge_spring].
 
 ### Tech & Tools Preference
 
-[![Tech & Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,threejs,tailwind,nodejs,bun,vite,express,c,py,php,godot,androidstudio,git,vscode,vim,neovim,bash,docker,regex,linux,windows,notion,github,vercel#gh-dark-mode-only)](https://skillicons.dev)
-
-<!-- TODO
-<details align="left">
-<table style="border-color: transparent;" cellspacing=0>
-  <tr>
-    <td valign="center" width="60%"></td>
-  </tr>
-</table>
-</details>
--->
+[![Tech & Tools](https://skillicons.dev/icons?i=js,ts,react,astro,threejs,tailwind,bun,express,c,cpp,py,godot,git,docker,vscode,neovim,bash,regex,windows,linux,nix,notion#gh-dark-mode-only)](https://skillicons.dev)
 
 ### Contribution Activity
 <picture>
@@ -34,13 +24,11 @@ I'm a **Developer** currently studying at **42 Madrid**, with a background as a 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/angelurano/angelurano/output/github-contribution-grid-snake.svg">
 </picture>
 
-###### 💾 EOF - Last Edited on: 18/08/2025
+###### 💾 EOF - Last Edited on: 06/05/2026
 
 <!-- Badges from shields.io -->
-
-[badge_threejs]: https://img.shields.io/badge/-Three.js-f7f7f7?style=flat&logo=three.js&logoColor=000000
-[badge_blender]: https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white
-[badge_nextjs]: https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white
-[badge_c]: https://img.shields.io/badge/-394aab?style=flat&logo=c&logoColor=white
-[badge_rust]: https://img.shields.io/badge/Rust-b94716?style=flat&logo=rust
-[badge_nestjs]: https://img.shields.io/badge/Nest%20JS-E0234E?style=flat&logo=nestjs
+[badge_c]: https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=394aab
+[badge_cpp]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=c%2B%2B&logoColor=394aab
+[badge_spring]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white
+[badge_hadoop]: https://img.shields.io/badge/Hadoop-66CC00?style=flat&logo=apachehadoop&logoColor=white
+[badge_spark]: https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white
